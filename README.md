@@ -1,0 +1,1 @@
+# Parcial-1---Paradigmas-de-programacion
