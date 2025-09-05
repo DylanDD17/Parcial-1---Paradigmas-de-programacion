@@ -95,15 +95,15 @@ main = do
     then putStrLn "La lista está vacía, no se puede calcular el promedio."
     else putStrLn $ "El promedio es: " ++ show (promedio numeros)
 ```
-# Representación Matemática
+**Representación Matemática**
 
-promedio(L) = suma(L) / longitud(L)
+**promedio(L) = suma(L) / longitud(L)**
 
-# Notación de Cálculo Lambda
+**Notación de Cálculo Lambda**
 
-λL -> (foldr (+) 0 L) / (length L)
+**λL → (foldr (+) 0 L) / (length L)**
 
-# Explicación Paso a Paso:
+Explicación :
 - λL → define una función que recibe una lista L
 - foldr (+) 0 L → suma todos los elementos de la lista usando reducción por la derecha
 - length L → obtiene el tamaño de la lista
