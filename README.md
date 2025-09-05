@@ -12,8 +12,8 @@ Se presentan dos enfoques: **imperativo** y **declarativo**.
 
 
 ##  2. Nivel de expresividad y abstracción
-- **Imperativo:** describe *cómo* se hace el ordenamiento (detalles de comparaciones e intercambios).  
-- **Declarativo:** describe *qué* se quiere lograr (ordenar por nota y luego por nombre).  
+- **Imperativo:** describe cómo se hace el ordenamiento (detalles de comparaciones e intercambios).  
+- **Declarativo:** describe qué se quiere lograr (ordenar por nota y luego por nombre).  
 
 
 ##  3. Manejo de estructuras de datos
